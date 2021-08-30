@@ -2,4 +2,6 @@ rencana gacha
 
 -baal
 -weapon signatur
+ -gras cutter
+ -staf of homa
 -hutao
