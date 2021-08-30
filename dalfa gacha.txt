@@ -5,3 +5,4 @@ rencana gacha
  -gras cutter
  -staf of homa
 -hutao
+-ganyu
